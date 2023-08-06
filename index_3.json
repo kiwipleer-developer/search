@@ -722,7 +722,7 @@
   {
     "id": 90,
     "content": "90",
-    "icon": "9fas fa-network-wired",
+    "icon": "fas fa-network-wired",
     "href": "./../../../assets/index/search/90.html",
     "title": "Developing",
     "section": "En desarrollo"
@@ -794,7 +794,7 @@
   {
     "id": 99,
     "content": "99",
-    "icon": "9fas fa-network-wired",
+    "icon": "fas fa-network-wired",
     "href": "./../../../assets/index/search/99.html",
     "title": "Developing",
     "section": "En desarrollo"
