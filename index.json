@@ -1,0 +1,500 @@
+[
+{
+"id": 0,
+"content": "404 error de busqueda 0",
+"icon": "fab fa-windows",
+"href": "file:///F:/floppy/assets/index/search/0.html",
+"title": "404",
+"section": "Error 404"
+},{
+"id": 1,
+"content": "1 pajina pagina de inicio home",
+"icon": "fab fa-windows",
+"href": "file:///F:/floppy/assets/index/search/1.html",
+"title": "Home",
+"section": "Pagina principal"
+},{
+"id": 2,
+"content": "2",
+"icon": "fas fa-mobile-alt",
+"href": "file:///F:/floppy/assets/index/search/2.html",
+"title": "Equipos",
+"section": "Listado de equipos"
+},{
+"id": 3,
+"content": "3",
+"icon": "fas fa-info-circle",
+"href": "file:///F:/floppy/assets/index/search/3.html",
+"title": "Informacion",
+"section": "Informacion en general"
+},{
+"id": 4,
+"content": "4 Almacenamiento en general servidor",
+"icon": "fas fa-server",
+"href": "file:///F:/floppy/assets/index/search/4.html",
+"title": "Server",
+"section": "Almacenamiento en general"
+},{
+"id": 5,
+"content": "5",
+"icon": "fas fa-brain",
+"href": "file:///F:/floppy/assets/index/search/5.html",
+"title": "Capacitacion",
+"section": "Seccion de capacitacion"
+},{
+"id": 6,
+"content": "6 articulo de ejemplo",
+"icon": "fas fa-book",
+"href": "file:///F:/floppy/assets/index/search/6.html",
+"title": "ejemplo",
+"section": "Articulo de ejemplo"
+},{
+"id": 7,
+"content": "7",
+"icon": "fas fa-book",
+"href": "file:///F:/floppy/assets/index/search/7.html",
+"title": "Libros",
+"section": "Libros para diferentes porpositos"
+},{
+"id": 8,
+"content": "8",
+"icon": "_0_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/8.html",
+"title": "_0_Developing",
+"section": "_0_En desarrollo"
+},{
+"id": 9,
+"content": "9",
+"icon": "fas fa-hand-holding-usd",
+"href": "file:///F:/floppy/assets/index/search/9.html",
+"title": "Monetizacion",
+"section": "Productos, Servicios"
+},{
+"id": 10,
+"content": "10",
+"icon": "_0_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/10.html",
+"title": "_0_Developing",
+"section": "_0_En desarrollo"
+},{
+"id": 11,
+"content": "11",
+"icon": "_0_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/11.html",
+"title": "_0_Developing",
+"section": "_0_En desarrollo"
+},{
+"id": 12,
+"content": "12",
+"icon": "fab fa-font-awesome-flag",
+"href": "file:///F:/floppy/assets/index/search/12.html",
+"title": "Fontawesome",
+"section": "Listado de iconos"
+},{
+"id": 13,
+"content": "13 funcionalidad",
+"icon": "fas fa-laptop",
+"href": "file:///F:/floppy/assets/index/search/13.html",
+"title": "Funcionalidad",
+"section": "Funcionalidad del template en general"
+},{
+"id": 14,
+"content": "14",
+"icon": "fas fa-code",
+"href": "file:///F:/floppy/assets/index/search/14.html",
+"title": "Codigo",
+"section": "Codigo en general"
+},{
+"id": 15,
+"content": "15",
+"icon": "fas fa-robot",
+"href": "file:///F:/floppy/assets/index/search/15.html",
+"title": "Bots",
+"section": "Agentes en diferentes areas en las que puedes necesitar ayuda."
+},{
+"id": 16,
+"content": "16",
+"icon": "_0_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/16.html",
+"title": "_16_Developing",
+"section": "_16_En desarrollo"
+},{
+"id": 17,
+"content": "17 Banco de imagenes image en general",
+"icon": "fas fa-image",
+"href": "file:///F:/floppy/assets/index/search/17.html",
+"title": "Imagen",
+"section": "Banco de imagenes en general"
+},{
+"id": 18,
+"content": "18",
+"icon": "_0_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/18.html",
+"title": "_0_Developing",
+"section": "_0_En desarrollo"
+},{
+"id": 19,
+"content": "19",
+"icon": "fas fa-sliders-h",
+"href": "file:///F:/floppy/assets/index/search/19.html",
+"title": "Personalizacion",
+"section": "Iconos, Tooltips, Paleta colores"
+},{
+"id": 20,
+"content": "20 trabajo pedidos y solicitudes en general",
+"icon": "fas fa-briefcase",
+"href": "file:///F:/floppy/assets/index/search/20.html",
+"title": "Trabajo",
+"section": "Pedidos y solicitudes en general"
+},{
+"id": 21,
+"content": "21",
+"icon": "_0_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/21.html",
+"title": "Repositorio",
+"section": "un pequeño almacen de datos"
+},{
+"id": 22,
+"content": "22",
+"icon": "fas fa-chart-line",
+"href": "file:///F:/floppy/assets/index/search/22.html",
+"title": "SEO",
+"section": "optimización de motores de búsqueda"
+},{
+"id": 23,
+"content": "23",
+"icon": "fas fa-cogs",
+"href": "file:///F:/floppy/assets/index/search/23.html",
+"title": "Configuracion",
+"section": "configuracion floppy"
+},{
+"id": 24,
+"content": "24",
+"icon": "fas fa-folder-open",
+"href": "file:///F:/floppy/assets/index/search/24.html",
+"title": "Docs",
+"section": "Conjunto de documentos"
+},{
+"id": 25,
+"content": "25",
+"icon": "_25_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/25.html",
+"title": "_25_Developing",
+"section": "_25_En desarrollo"
+},{
+"id": 26,
+"content": "26",
+"icon": "fas fa-feather-alt",
+"href": "file:///F:/floppy/assets/index/search/26.html",
+"title": "tooltip",
+"section": "globo informativo que describe el elemento sobre el cual estas posicionado"
+},{
+"id": 27,
+"content": "27",
+"icon": "_27_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/27.html",
+"title": "_27_Developing",
+"section": "_27_En desarrollo"
+},{
+"id": 28,
+"content": "28",
+"icon": "_28_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/28.html",
+"title": "_28_Developing",
+"section": "_28_En desarrollo"
+},{
+"id": 29,
+"content": "29",
+"icon": "_29_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/29.html",
+"title": "_29_Developing",
+"section": "_29_En desarrollo"
+},{
+"id": 30,
+"content": "30",
+"icon": "_30_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/30.html",
+"title": "_30_Developing",
+"section": "_30_En desarrollo"
+},{
+"id": 31,
+"content": "31",
+"icon": "_31_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/31.html",
+"title": "_31_Developing",
+"section": "_31_En desarrollo"
+},{
+"id": 32,
+"content": "32",
+"icon": "_32_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/32.html",
+"title": "_32_Developing",
+"section": "_32_En desarrollo"
+},{
+"id": 33,
+"content": "33",
+"icon": "_33_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/33.html",
+"title": "_33_Developing",
+"section": "_33_En desarrollo"
+},{
+"id": 34,
+"content": "34",
+"icon": "fas fa-hdd",
+"href": "file:///F:/floppy/assets/index/search/34.html",
+"title": "Almacenamiento",
+"section": "donde se almacenan los datos"
+},{
+"id": 35,
+"content": "35",
+"icon": "_35_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/35.html",
+"title": "_35_Developing",
+"section": "_35_En desarrollo"
+},{
+"id": 36,
+"content": "36",
+"icon": "_36_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/36.html",
+"title": "_36_Developing",
+"section": "_36_En desarrollo"
+},{
+"id": 37,
+"content": "37",
+"icon": "_37_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/37.html",
+"title": "_37_Developing",
+"section": "_37_En desarrollo"
+},{
+"id": 38,
+"content": "38 google seo motor de busqueda",
+"icon": "fab fa-windows",
+"href": "file:///F:/floppy/assets/index/search/38.html",
+"title": "Google",
+"section": "SEO en el motor de busqueda de Google"
+},{
+"id": 39,
+"content": "39",
+"icon": "_39_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/39.html",
+"title": "_39_Developing",
+"section": "_39_En desarrollo"
+},{
+"id": 40,
+"content": "40",
+"icon": "_40_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/40.html",
+"title": "_40_Developing",
+"section": "_40_En desarrollo"
+},{
+"id": 41,
+"content": "41",
+"icon": "_0_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/41.html",
+"title": "_0_Developing",
+"section": "_0_En desarrollo"
+},{
+"id": 42,
+"content": "42",
+"icon": "fas fa-headphones",
+"href": "file:///F:/floppy/assets/index/search/42.html",
+"title": "Music",
+"section": "Music for programming"
+},{
+"id": 43,
+"content": "43",
+"icon": "_43_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/43.html",
+"title": "_43_Developing",
+"section": "_43_En desarrollo"
+},{
+"id": 44,
+"content": "44",
+"icon": "_44_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/44.html",
+"title": "_44_Developing",
+"section": "_44_En desarrollo"
+},{
+"id": 45,
+"content": "45",
+"icon": "_45_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/45.html",
+"title": "_45_Developing",
+"section": "_45_En desarrollo"
+},{
+"id": 46,
+"content": "46",
+"icon": "fas fa-book",
+"href": "file:///F:/floppy/assets/index/search/46.html",
+"title": "Go pro - Eric Worre",
+"section": "Libro"
+},{
+"id": 47,
+"content": "47",
+"icon": "_47_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/47.html",
+"title": "_47_Developing",
+"section": "_47_En desarrollo"
+},{
+"id": 48,
+"content": "48",
+"icon": "_48_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/48.html",
+"title": "_48_Developing",
+"section": "_48_En desarrollo"
+},{
+"id": 49,
+"content": "49",
+"icon": "_49_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/49.html",
+"title": "_49_Developing",
+"section": "_49_En desarrollo"
+},{
+"id": 50,
+"content": "50",
+"icon": "_50_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/50.html",
+"title": "_50_Developing",
+"section": "_50_En desarrollo"
+},{
+"id": 51,
+"content": "51",
+"icon": "_51_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/51.html",
+"title": "_51_Developing",
+"section": "_51_En desarrollo"
+},{
+"id": 52,
+"content": "52",
+"icon": "_52_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/52.html",
+"title": "_52_Developing",
+"section": "_52_En desarrollo"
+},{
+"id": 53,
+"content": "53",
+"icon": "_53_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/53.html",
+"title": "_53_Developing",
+"section": "_53_En desarrollo"
+},{
+"id": 54,
+"content": "54",
+"icon": "_54_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/54.html",
+"title": "_54_Developing",
+"section": "_54_En desarrollo"
+},{
+"id": 55,
+"content": "55",
+"icon": "_55_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/55.html",
+"title": "_55_Developing",
+"section": "_55_En desarrollo"
+},{
+"id": 56,
+"content": "56",
+"icon": "_56_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/56.html",
+"title": "_56_Developing",
+"section": "_56_En desarrollo"
+},{
+"id": 57,
+"content": "57",
+"icon": "_57_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/57.html",
+"title": "_57_Developing",
+"section": "_57_En desarrollo"
+},{
+"id": 58,
+"content": "58",
+"icon": "_58_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/58.html",
+"title": "_58_Developing",
+"section": "_58_En desarrollo"
+},{
+"id": 59,
+"content": "59",
+"icon": "fas fa-code",
+"href": "file:///F:/floppy/assets/index/search/59.html",
+"title": "Sintaxis blogger",
+"section": "Documentacion de la sintaxis de blogger"
+},{
+"id": 60,
+"content": "60",
+"icon": "fas fa-search",
+"href": "file:///F:/floppy/assets/index/search/60.html",
+"title": "Buscador",
+"section": "Buscador de floppy"
+},{
+"id": 61,
+"content": "61",
+"icon": "_61_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/61.html",
+"title": "_61_Developing",
+"section": "_61_En desarrollo"
+},{
+"id": 62,
+"content": "62",
+"icon": "fas fa-file-alt",
+"href": "file:///F:/floppy/assets/index/search/62.html",
+"title": "Detalles del proyecto",
+"section": "informacion de inicio"
+},{
+"id": 63,
+"content": "63",
+"icon": "fas fa-link",
+"href": "file:///F:/floppy/assets/index/search/63.html",
+"title": "Links",
+"section": "enlaces de sitios externos utilies"
+},{
+"id": 64,
+"content": "64",
+"icon": "_64_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/64.html",
+"title": "_64_Developing",
+"section": "_64_En desarrollo"
+},{
+"id": 65,
+"content": "65",
+"icon": "_65_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/65.html",
+"title": "_65_Developing",
+"section": "_65_En desarrollo"
+},{
+"id": 66,
+"content": "66",
+"icon": "_66_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/66.html",
+"title": "_66_Developing",
+"section": "_66_En desarrollo"
+},{
+"id": 67,
+"content": "67",
+"icon": "fas fa-rss",
+"href": "file:///F:/floppy/assets/index/search/67.html",
+"title": "Blog",
+"section": "Articulos y publicaciones"
+},{
+"id": 68,
+"content": "68",
+"icon": "_68_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/68.html",
+"title": "_68_Developing",
+"section": "_68_En desarrollo"
+},{
+"id": 69,
+"content": "69",
+"icon": "_69_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/69.html",
+"title": "_69_Developing",
+"section": "_69_En desarrollo"
+},{
+"id": 70,
+"content": "70",
+"icon": "_70_fas fa-network-wired",
+"href": "file:///F:/floppy/assets/index/search/70.html",
+"title": "_70_Developing",
+"section": "_70_En desarrollo"
+}
+]
