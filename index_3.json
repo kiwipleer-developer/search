@@ -81,11 +81,11 @@
   },
   {
     "id": 10,
-    "content": "10",
-    "icon": "_0_fas fa-network-wired",
+    "content": "10 Off topic",
+    "icon": "fas fa-coffee",
     "href": "./../../../assets/index/search/10.html",
-    "title": "_0_Developing",
-    "section": "_0_En desarrollo"
+    "title": "Off topic",
+    "section": "Discusi\u00c3\u00b3n o comportamiento relajado fuera del contexto dentro de kiwi pleer"
   },
   {
     "id": 11,
