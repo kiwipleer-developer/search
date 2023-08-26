@@ -921,11 +921,11 @@
   },
   {
     "id": 115,
-    "content": "115",
-    "icon": "fas fa-network-wired",
+    "content": "115 parametros adicionales de blogger",
+    "icon": "fas fa-book",
     "href": "./../../../../../assets/index/search/115.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Parametros adicionales",
+    "section": "parametros adicionales de blogger"
   },
   {
     "id": 116,
@@ -1097,11 +1097,11 @@
   },
   {
     "id": 137,
-    "content": "137",
-    "icon": "fas fa-network-wired",
+    "content": "137 maily tema de para blogger xml multiproposito",
+    "icon": "fas fa-file-code",
     "href": "./../../../../../assets/index/search/137.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Maily XML",
+    "section": "Tema blogger multiproposito"
   },
   {
     "id": 138,
