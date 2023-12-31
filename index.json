@@ -57,11 +57,11 @@
 "section": "Libros para diferentes propositos"
 },{
 "id": 8,
-"content": "8",
-"icon": "fas fa-network-wired",
+"content": "8 lienzo nuevas enyttradas articulos",
+"icon": "fas fa-clipboard",
 "href": "file:///F:/floppy/assets/index/search/8.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Lienzo",
+"section": "planilla nuevas entradas"
 },{
 "id": 9,
 "content": "9",
@@ -190,11 +190,11 @@
 "section": "globo informativo que describe el elemento sobre el cual estas posicionado"
 },{
 "id": 27,
-"content": "27",
-"icon": "fas fa-network-wired",
+"content": "27 introduccion a excel programa informatico desarrollado y distribuido por microsoft",
+"icon": "fas fa-file-excel",
 "href": "file:///F:/floppy/assets/index/search/27.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Introducción a Excel",
+"section": "programa informático desarrollado y distribuido por Microsoft"
 },{
 "id": 28,
 "content": "28",
@@ -386,11 +386,11 @@
 "section": "En desarrollo"
 },{
 "id": 55,
-"content": "55",
-"icon": "fas fa-network-wired",
+"content": "55 trading libro en la de zona",
+"icon": "fas fa-book",
 "href": "file:///F:/floppy/assets/index/search/55.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Trading en la zona",
+"section": "Libro digital"
 },{
 "id": 56,
 "content": "56",
@@ -435,7 +435,7 @@
 "section": "En desarrollo"
 },{
 "id": 62,
-"content": "62",
+"content": "62 proyectos detalles del proyecto",
 "icon": "fas fa-file-alt",
 "href": "file:///F:/floppy/assets/index/search/62.html",
 "title": "Detalles del proyecto",
@@ -536,8 +536,8 @@
 "content": "76",
 "icon": "fas fa-network-wired",
 "href": "file:///F:/floppy/assets/index/search/76.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Datos gadget etiquetas",
+"section": "Datos pertenecientes al Gadget de etiquetas"
 },{
 "id": 77,
 "content": "77",
@@ -890,11 +890,11 @@
 "section": "En desarrollo"
 },{
 "id": 127,
-"content": "127",
-"icon": "fas fa-network-wired",
+"content": "127 comodas opciones que facilitaran tu trabajo template",
+"icon": "fas fa-laptop",
 "href": "file:///F:/floppy/assets/index/search/127.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Template",
+"section": "Comodas opciones que facilitarán tu trabajo"
 },{
 "id": 128,
 "content": "128",
@@ -911,11 +911,11 @@
 "section": "En desarrollo"
 },{
 "id": 130,
-"content": "130",
-"icon": "fas fa-network-wired",
+"content": "130 mbn red money blog network blog blogs",
+"icon": "fas fa-book",
 "href": "file:///F:/floppy/assets/index/search/130.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "MBN",
+"section": "Money Blog Network"
 },{
 "id": 131,
 "content": "131",
@@ -1352,11 +1352,11 @@
 "section": "En desarrollo"
 },{
 "id": 193,
-"content": "193",
+"content": "193 conversion de divisas tasa peso argentino",
 "icon": "fas fa-network-wired",
 "href": "file:///F:/floppy/assets/index/search/193.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Conversor de Moneda",
+"section": "Guía de Uso"
 },{
 "id": 194,
 "content": "194",
