@@ -89,15 +89,15 @@
   },
   {
     "id": 11,
-    "content": "11",
-    "icon": "fas fa-network-wired",
+    "content": "11 ejemplos de codigo útil util ragmentos",
+    "icon": "fas fa-code",
     "href": "./../../../../assets/index/search/11.html",
     "title": "Ejemplo",
     "section": "Ejemplos de codigo"
   },
   {
     "id": 12,
-    "content": "12",
+    "content": "12 fontawesome listado de iconos",
     "icon": "fab fa-font-awesome-flag",
     "href": "./../../../../assets/index/search/12.html",
     "title": "Fontawesome",
@@ -113,11 +113,11 @@
   },
   {
     "id": 14,
-    "content": "14",
+    "content": "14 codigo en general código",
     "icon": "fas fa-code",
     "href": "./../../../../assets/index/search/14.html",
     "title": "Codigo",
-    "section": "Codigo en general"
+    "section": "Código en general"
   },
   {
     "id": 15,
@@ -130,10 +130,10 @@
   {
     "id": 16,
     "content": "16",
-    "icon": "fas fa-network-wired",
+    "icon": "fas fa-laptop-code",
     "href": "./../../../../assets/index/search/16.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Cursos",
+    "section": "Capacitacion y aprendisaje"
   },
   {
     "id": 17,
@@ -145,15 +145,15 @@
   },
   {
     "id": 18,
-    "content": "18",
-    "icon": "fas fa-network-wired",
+    "content": "18 pedidos y solicitude trabajo de",
+    "icon": "fas fa-shipping-fast",
     "href": "./../../../../assets/index/search/18.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Pedidos",
+    "section": "Información relacionada con los pedidos"
   },
   {
     "id": 19,
-    "content": "19",
+    "content": "19 personalizacion personalización",
     "icon": "fas fa-sliders-h",
     "href": "./../../../../assets/index/search/19.html",
     "title": "Personalizacion",
@@ -205,7 +205,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/25.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 26,
@@ -229,7 +229,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/28.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 29,
@@ -245,7 +245,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/30.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 31,
@@ -253,7 +253,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/31.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 32,
@@ -261,7 +261,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/32.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 33,
@@ -269,7 +269,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/33.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 34,
@@ -285,7 +285,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/35.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 36,
@@ -293,7 +293,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/36.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 37,
@@ -301,7 +301,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/37.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 38,
@@ -317,7 +317,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/39.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 40,
@@ -325,7 +325,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/40.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 41,
@@ -333,7 +333,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/41.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 42,
@@ -349,7 +349,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/43.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 44,
@@ -357,7 +357,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/44.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 45,
@@ -365,7 +365,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/45.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 46,
@@ -381,7 +381,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/47.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 48,
@@ -389,7 +389,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/48.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 49,
@@ -397,7 +397,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/49.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 50,
@@ -405,7 +405,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/50.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 51,
@@ -413,7 +413,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/51.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 52,
@@ -421,7 +421,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/52.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 53,
@@ -429,7 +429,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/53.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 54,
@@ -437,7 +437,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/54.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 55,
@@ -453,7 +453,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/56.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 57,
@@ -461,7 +461,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/57.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 58,
@@ -469,7 +469,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/58.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 59,
@@ -493,7 +493,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/61.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 62,
@@ -517,7 +517,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/64.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 65,
@@ -525,7 +525,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/65.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 66,
@@ -533,7 +533,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/66.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 67,
@@ -549,7 +549,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/68.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 69,
@@ -557,7 +557,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/69.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 70,
@@ -565,7 +565,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/70.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 71,
@@ -573,7 +573,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/71.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 72,
@@ -581,7 +581,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/72.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 73,
@@ -589,7 +589,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/73.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 74,
@@ -597,7 +597,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/74.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 75,
@@ -605,7 +605,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/75.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 76,
@@ -621,7 +621,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/77.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 78,
@@ -629,7 +629,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/78.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 79,
@@ -637,7 +637,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/79.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 80,
@@ -645,7 +645,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/80.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 81,
@@ -653,7 +653,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/81.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 82,
@@ -661,7 +661,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/82.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 83,
@@ -669,7 +669,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/83.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 84,
@@ -677,7 +677,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/84.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 85,
@@ -685,7 +685,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/85.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 86,
@@ -693,7 +693,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/86.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 87,
@@ -701,7 +701,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/87.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 88,
@@ -709,7 +709,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/88.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 89,
@@ -717,7 +717,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/89.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 90,
@@ -725,7 +725,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/90.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 91,
@@ -733,15 +733,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/91.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 92,
-    "content": "92",
-    "icon": "fas fa-network-wired",
+    "content": "92 mostrar etiqueta de evaluar una para expresion",
+    "icon": "fas fa-book",
     "href": "./../../../../assets/index/search/92.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Etiqueta de evaluar expresion",
+    "section": "evalúa una expresión, permitiendo mostrar el valor resultante"
   },
   {
     "id": 93,
@@ -749,7 +749,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/93.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 94,
@@ -757,7 +757,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/94.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 95,
@@ -765,7 +765,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/95.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 96,
@@ -773,7 +773,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/96.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 97,
@@ -781,7 +781,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/97.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 98,
@@ -789,7 +789,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/98.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 99,
@@ -797,15 +797,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/99.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 100,
-    "content": "100",
-    "icon": "fas fa-network-wired",
+    "content": "100 etiquetas de mensaje de blogger",
+    "icon": "fab fa-blogger",
     "href": "./../../../../assets/index/search/100.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Etiquetas de mensaje",
+    "section": "En_desarrollo"
   },
   {
     "id": 101,
@@ -813,7 +813,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/101.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 102,
@@ -821,7 +821,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/102.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 103,
@@ -829,7 +829,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/103.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 104,
@@ -837,7 +837,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/104.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 105,
@@ -845,7 +845,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/105.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 106,
@@ -853,7 +853,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/106.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 107,
@@ -861,7 +861,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/107.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 108,
@@ -869,7 +869,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/108.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 109,
@@ -877,7 +877,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/109.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 110,
@@ -885,7 +885,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/110.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 111,
@@ -893,7 +893,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/111.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 112,
@@ -901,7 +901,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/112.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 113,
@@ -909,7 +909,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/113.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 114,
@@ -917,7 +917,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/114.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 115,
@@ -933,7 +933,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/116.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 117,
@@ -941,7 +941,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/117.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 118,
@@ -949,7 +949,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/118.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 119,
@@ -957,31 +957,31 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/119.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 120,
-    "content": "120",
+    "content": "120 parametros de url de blogger",
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/120.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Parametros de url",
+    "section": "En_desarrollo"
   },
   {
     "id": 121,
-    "content": "121",
+    "content": "121 selector binario y ternario de blogger",
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/121.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Selector binario y ternario",
+    "section": "En_desarrollo"
   },
   {
     "id": 122,
-    "content": "122",
+    "content": "122 tipos de datos blogger",
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/122.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Tipos de datos",
+    "section": "En_desarrollo"
   },
   {
     "id": 123,
@@ -989,7 +989,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/123.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 124,
@@ -997,15 +997,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/124.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 125,
-    "content": "125",
-    "icon": "fas fa-network-wired",
+    "content": "125 paleta de colores diseño para template hex fondo",
+    "icon": "fas fa-palette",
     "href": "./../../../../assets/index/search/125.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Paleta de colores",
+    "section": "En_desarrollo"
   },
   {
     "id": 126,
@@ -1013,7 +1013,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/126.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 127,
@@ -1029,7 +1029,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/128.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 129,
@@ -1037,7 +1037,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/129.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 130,
@@ -1053,7 +1053,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/131.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 132,
@@ -1061,7 +1061,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/132.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 133,
@@ -1069,7 +1069,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/133.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 134,
@@ -1077,7 +1077,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/134.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 135,
@@ -1085,15 +1085,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/135.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 136,
-    "content": "136",
-    "icon": "fas fa-network-wired",
+    "content": "136 Promps openai ia ai solicitude y consultas",
+    "icon": "fas fa-book",
     "href": "./../../../../assets/index/search/136.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Promps",
+    "section": "Solicitude y consultas IA"
   },
   {
     "id": 137,
@@ -1109,7 +1109,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/138.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 139,
@@ -1117,15 +1117,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/139.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 140,
-    "content": "140",
+    "content": "140 single xml template",
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/140.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Single XML",
+    "section": "En_desarrollo"
   },
   {
     "id": 141,
@@ -1133,15 +1133,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/141.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 142,
-    "content": "142",
+    "content": "142 Persona XML template",
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/142.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Persona XML",
+    "section": "En_desarrollo"
   },
   {
     "id": 143,
@@ -1149,7 +1149,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/143.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 144,
@@ -1157,7 +1157,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/144.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 145,
@@ -1165,7 +1165,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/145.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 146,
@@ -1173,7 +1173,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/146.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 147,
@@ -1181,7 +1181,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/147.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 148,
@@ -1189,7 +1189,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/148.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 149,
@@ -1197,7 +1197,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/149.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 150,
@@ -1205,7 +1205,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/150.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 151,
@@ -1213,7 +1213,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/151.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 152,
@@ -1221,7 +1221,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/152.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 153,
@@ -1229,15 +1229,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/153.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 154,
-    "content": "154",
-    "icon": "fas fa-network-wired",
+    "content": "154 Que es el branding",
+    "icon": "fas fa-book",
     "href": "./../../../../assets/index/search/154.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Que es el branding",
+    "section": "En_desarrollo"
   },
   {
     "id": 155,
@@ -1245,31 +1245,31 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/155.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 156,
-    "content": "156",
+    "content": "156 que son los dns",
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/156.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Que son los DNS",
+    "section": "En_desarrollo"
   },
   {
     "id": 157,
-    "content": "157",
-    "icon": "fas fa-network-wired",
+    "content": "157 notas apuntes utiles",
+    "icon": "fa fa-note-sticky",
     "href": "./../../../../assets/index/search/157.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Notas",
+    "section": "En_desarrollo"
   },
   {
     "id": 158,
-    "content": "158",
-    "icon": "fas fa-network-wired",
+    "content": "158 openai ai ia",
+    "icon": "fas fa-book",
     "href": "./../../../../assets/index/search/158.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "OpenAi",
+    "section": "En_desarrollo"
   },
   {
     "id": 159,
@@ -1277,7 +1277,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/159.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 160,
@@ -1285,7 +1285,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/160.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 161,
@@ -1293,7 +1293,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/161.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 162,
@@ -1301,7 +1301,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/162.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 163,
@@ -1309,7 +1309,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/163.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 164,
@@ -1317,7 +1317,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/164.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 165,
@@ -1325,7 +1325,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/165.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 166,
@@ -1333,7 +1333,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/166.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 167,
@@ -1341,7 +1341,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/167.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 168,
@@ -1349,7 +1349,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/168.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 169,
@@ -1357,7 +1357,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/169.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 170,
@@ -1365,7 +1365,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/170.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 171,
@@ -1373,7 +1373,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/171.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 172,
@@ -1381,7 +1381,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/172.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 173,
@@ -1389,7 +1389,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/173.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 174,
@@ -1397,7 +1397,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/174.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 175,
@@ -1405,7 +1405,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/175.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 176,
@@ -1413,7 +1413,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/176.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 177,
@@ -1421,7 +1421,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/177.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 178,
@@ -1429,7 +1429,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/178.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 179,
@@ -1437,7 +1437,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/179.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 180,
@@ -1445,7 +1445,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/180.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 181,
@@ -1453,7 +1453,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/181.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 182,
@@ -1461,7 +1461,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/182.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 183,
@@ -1469,7 +1469,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/183.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 184,
@@ -1477,7 +1477,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/184.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 185,
@@ -1485,15 +1485,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/185.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 186,
-    "content": "186",
-    "icon": "fas fa-network-wired",
+    "content": "186 programas y rutas de utilizadas utilizados",
+    "icon": "fas fa-book",
     "href": "./../../../../assets/index/search/186.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Programas",
+    "section": "programas y rutas utilizadas"
   },
   {
     "id": 187,
@@ -1501,7 +1501,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/187.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 188,
@@ -1509,7 +1509,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/188.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 189,
@@ -1517,7 +1517,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/189.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 190,
@@ -1525,7 +1525,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/190.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 191,
@@ -1533,7 +1533,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/191.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 192,
@@ -1541,23 +1541,23 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/192.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 193,
     "content": "193 conversion de divisas tasa peso argentino",
-    "icon": "fas fa-network-wired",
+    "icon": "fas fa-hand-holding-usd",
     "href": "./../../../../assets/index/search/193.html",
     "title": "Conversor de Moneda",
     "section": "Guía de Uso"
   },
   {
     "id": 194,
-    "content": "194",
-    "icon": "fas fa-network-wired",
+    "content": "194 estado actual de todas las mbn money blog network status",
+    "icon": "fas fa-book",
     "href": "./../../../../assets/index/search/194.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Estado MBN",
+    "section": "Estado actual de todas las MBN (Money Blog Network)"
   },
   {
     "id": 195,
@@ -1565,7 +1565,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/195.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 196,
@@ -1581,7 +1581,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/197.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 198,
@@ -1589,15 +1589,15 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/198.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 199,
-    "content": "199",
-    "icon": "fas fa-network-wired",
+    "content": "199 Escapar HTML precode pre convertir pasar a codigo",
+    "icon": "fas fa-code",
     "href": "./../../../../assets/index/search/199.html",
-    "title": "Developing",
-    "section": "En desarrollo"
+    "title": "Escapar HTML",
+    "section": "prepara el codigo para ser insertado como precode"
   },
   {
     "id": 200,
@@ -1605,7 +1605,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/200.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 201,
@@ -1613,7 +1613,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/201.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 202,
@@ -1621,7 +1621,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/202.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 203,
@@ -1629,7 +1629,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/203.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 204,
@@ -1637,7 +1637,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/204.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 205,
@@ -1645,7 +1645,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/205.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 206,
@@ -1653,7 +1653,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/206.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 207,
@@ -1661,7 +1661,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/207.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 208,
@@ -1669,7 +1669,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/208.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 209,
@@ -1677,7 +1677,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/209.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 210,
@@ -1685,7 +1685,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/210.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 211,
@@ -1693,7 +1693,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/211.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 212,
@@ -1701,7 +1701,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/212.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 213,
@@ -1709,7 +1709,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/213.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 214,
@@ -1717,7 +1717,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/214.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 215,
@@ -1725,7 +1725,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/215.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 216,
@@ -1733,7 +1733,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/216.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 217,
@@ -1741,7 +1741,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/217.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 218,
@@ -1749,7 +1749,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/218.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 219,
@@ -1757,7 +1757,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/219.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 220,
@@ -1765,7 +1765,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/220.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 221,
@@ -1773,7 +1773,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/221.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 222,
@@ -1781,7 +1781,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/222.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 223,
@@ -1789,7 +1789,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/223.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 224,
@@ -1797,7 +1797,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/224.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 225,
@@ -1805,7 +1805,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/225.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 226,
@@ -1813,7 +1813,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/226.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 227,
@@ -1821,7 +1821,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/227.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 228,
@@ -1829,7 +1829,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/228.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 229,
@@ -1837,7 +1837,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/229.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 230,
@@ -1845,7 +1845,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/230.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 231,
@@ -1853,7 +1853,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/231.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 232,
@@ -1861,7 +1861,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/232.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 233,
@@ -1869,7 +1869,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/233.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 234,
@@ -1877,7 +1877,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/234.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 235,
@@ -1885,7 +1885,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/235.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 236,
@@ -1893,7 +1893,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/236.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 237,
@@ -1901,7 +1901,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/237.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 238,
@@ -1909,7 +1909,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/238.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 239,
@@ -1917,7 +1917,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/239.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 240,
@@ -1925,7 +1925,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/240.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 241,
@@ -1933,7 +1933,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/241.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 242,
@@ -1941,7 +1941,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/242.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 243,
@@ -1949,7 +1949,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/243.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 244,
@@ -1957,7 +1957,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/244.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 245,
@@ -1965,7 +1965,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/245.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 246,
@@ -1973,7 +1973,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/246.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 247,
@@ -1981,7 +1981,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/247.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 248,
@@ -1989,7 +1989,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/248.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 249,
@@ -1997,7 +1997,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/249.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 250,
@@ -2005,7 +2005,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/250.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 251,
@@ -2013,7 +2013,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/251.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 252,
@@ -2021,7 +2021,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/252.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 253,
@@ -2029,7 +2029,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/253.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 254,
@@ -2037,7 +2037,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/254.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 255,
@@ -2045,7 +2045,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/255.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 256,
@@ -2053,7 +2053,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/256.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 257,
@@ -2061,7 +2061,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/257.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 258,
@@ -2069,7 +2069,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/258.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 259,
@@ -2077,7 +2077,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/259.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 260,
@@ -2085,7 +2085,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/260.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 261,
@@ -2093,7 +2093,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/261.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 262,
@@ -2101,7 +2101,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/262.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 263,
@@ -2109,7 +2109,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/263.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 264,
@@ -2117,7 +2117,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/264.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 265,
@@ -2125,7 +2125,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/265.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 266,
@@ -2133,7 +2133,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/266.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 267,
@@ -2141,7 +2141,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/267.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 268,
@@ -2149,7 +2149,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/268.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 269,
@@ -2157,7 +2157,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/269.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 270,
@@ -2165,7 +2165,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/270.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 271,
@@ -2173,7 +2173,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/271.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 272,
@@ -2181,7 +2181,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/272.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 273,
@@ -2189,7 +2189,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/273.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 274,
@@ -2197,7 +2197,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/274.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 275,
@@ -2205,7 +2205,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/275.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 276,
@@ -2213,7 +2213,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/276.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 277,
@@ -2221,7 +2221,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/277.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 278,
@@ -2229,7 +2229,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/278.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 279,
@@ -2237,7 +2237,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/279.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 280,
@@ -2245,7 +2245,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/280.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 281,
@@ -2253,7 +2253,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/281.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 282,
@@ -2261,7 +2261,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/282.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 283,
@@ -2269,7 +2269,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/283.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 284,
@@ -2277,7 +2277,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/284.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 285,
@@ -2285,7 +2285,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/285.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 286,
@@ -2293,7 +2293,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/286.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 287,
@@ -2301,7 +2301,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/287.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 288,
@@ -2309,7 +2309,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/288.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 289,
@@ -2317,7 +2317,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/289.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 290,
@@ -2325,7 +2325,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/290.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 291,
@@ -2333,7 +2333,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/291.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 292,
@@ -2341,7 +2341,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/292.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 293,
@@ -2349,7 +2349,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/293.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 294,
@@ -2357,7 +2357,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/294.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 295,
@@ -2365,7 +2365,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/295.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 296,
@@ -2373,7 +2373,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/296.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 297,
@@ -2381,7 +2381,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/297.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 298,
@@ -2389,7 +2389,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/298.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 299,
@@ -2397,7 +2397,7 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/299.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   },
   {
     "id": 300,
@@ -2405,6 +2405,6 @@
     "icon": "fas fa-network-wired",
     "href": "./../../../../assets/index/search/300.html",
     "title": "Developing",
-    "section": "En desarrollo"
+    "section": "En_desarrollo"
   }
 ]
