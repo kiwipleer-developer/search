@@ -73,10 +73,10 @@
   },
   {
     "id": 9,
-    "content": "9",
+    "content": "9 monetizacion monetización ventas de productos servicios",
     "icon": "fas fa-hand-holding-usd",
     "href": "./../../../../../../../../../../assets/index/search/9.html",
-    "title": "Monetizacion",
+    "title": "Monetización",
     "section": "Productos, Servicios"
   },
   {
@@ -241,11 +241,11 @@
   },
   {
     "id": 30,
-    "content": "30",
-    "icon": "fas fa-network-wired",
+    "content": "30 temas que maneja el bot bots",
+    "icon": "fas fa-robot",
     "href": "./../../../../../../../../../../assets/index/search/30.html",
-    "title": "Developing",
-    "section": "En_desarrollo"
+    "title": "Temas Bot",
+    "section": "Temas que maneja el bot"
   },
   {
     "id": 31,
@@ -489,11 +489,11 @@
   },
   {
     "id": 61,
-    "content": "61",
+    "content": "61 cuentas",
     "icon": "fas fa-network-wired",
     "href": "./../../../../../../../../../../assets/index/search/61.html",
-    "title": "Developing",
-    "section": "En_desarrollo"
+    "title": "Cuentas de usuario",
+    "section": "diversas cuentas de trabajo"
   },
   {
     "id": 62,
@@ -889,11 +889,11 @@
   },
   {
     "id": 111,
-    "content": "111",
-    "icon": "fas fa-network-wired",
+    "content": "operadores que son los 111 de cuales pertenencia",
+    "icon": "fab fa-blogger",
     "href": "./../../../../../../../../../../assets/index/search/111.html",
-    "title": "Developing",
-    "section": "En_desarrollo"
+    "title": "Operadores de pertenencia",
+    "section": "Evalúan si un objeto pertenece a otro"
   },
   {
     "id": 112,
