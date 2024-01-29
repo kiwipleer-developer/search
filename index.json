@@ -57,11 +57,11 @@
 "section": "Libros para diferentes propositos"
 },{
 "id": 8,
-"content": "8 lienzo nuevas enyttradas articulos",
+"content": "8 lienzo de planilla plantilla para nuevas entradas articulos",
 "icon": "fas fa-clipboard",
 "href": "file:///F:/floppy/assets/index/search/8.html",
 "title": "Lienzo",
-"section": "planilla nuevas entradas"
+"section": "nuevas entradas"
 },{
 "id": 9,
 "content": "9 monetizacion monetización ventas de productos servicios",
@@ -1128,11 +1128,11 @@
 "section": "En_desarrollo"
 },{
 "id": 161,
-"content": "161",
-"icon": "fas fa-network-wired",
+"content": "161 registros necesarios para las cuentas y/o empresas de los clientes cliente",
+"icon": "fas fa-link",
 "href": "file:///F:/floppy/assets/index/search/161.html",
-"title": "Developing",
-"section": "En_desarrollo"
+"title": "Registros",
+"section": "Registros necesarios para las cuentas y/o empresas de los clientes"
 },{
 "id": 162,
 "content": "162",
